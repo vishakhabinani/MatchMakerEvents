@@ -1,0 +1,15 @@
+.nav-link{
+  font-weight: 700;
+  color:black;
+  font-size: x-large;
+}
+.btn{
+  font-weight: 700;
+  font-size: large;
+}
+.logo{
+  height:120px;
+  width:120px;
+  position: relative;
+  border:10px solid black;
+}
